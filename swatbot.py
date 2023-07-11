@@ -11,7 +11,7 @@ TOKEN = "MTAxMTI5NDI0MTM3MDE1Mjk5MA.G8nXw3.7_WyLOvv-JU_D2dQWzwGC8vN8Fbb6PgN697y8
 
 client = discord.Client(intents = discord.Intents().all())
 
-blocked_words = ["nigger", "faggot", "fuck"]
+blocked_words = ['dumb']
 
 swatsname = ["swat"]
 
